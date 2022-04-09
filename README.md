@@ -8,15 +8,14 @@
 ## Instructions
 
 1. Join a Roblox game
-2. Equip the pets you want to duplicate
-3. Run the script
-4. Wait 1 - 2 minutes
+2. Run the script
+3. Wait 1 - 2 minutes
 
 -- You should get kicked here --
 
-5. Do not rejoin for ~ 2 hours (Bypassing dupe checker)
+4. Do not rejoin for ~ 2 hours (Bypassing dupe checker)
 
 -- After 1 hour --
 
-6. Join a Roblox game
-7. Enjoy your duped pets!
+5. Join a Roblox game
+6. Enjoy your duped pets!
